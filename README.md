@@ -5,8 +5,6 @@
 ________________________________________________________________________________________________________________________________________________________________
  I am experienced Web Developer adept in all stages of advanced web development.
 Knowledgeable in the user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing, and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Laravel, Core PHP, Javascript, JQuery, HTML5, CSS3, and MySQL Database. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
-
-I also have a working experience with Model View Controller (MVC), and have been involved in maintaining versions of source code using GitHub.I have also designed and developed master pages, validation controls, CSS files using technologies like Laravel Framework, JQuery, PHP, XML and HTML. 
 ________________________________________________________________________________________________________________________________________________________________
 <!-- - 👯 I’m looking to collaborate on Flutter Apps Or [Soundtrap](https://www.soundtrap.com/33nanoseconds)
 - 💬 Ask me about Neurolinguistic Programming -->
