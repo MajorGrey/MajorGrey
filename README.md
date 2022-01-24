@@ -20,7 +20,13 @@ ________________________________________________________________________________
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajorGrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MajorGrey&show_icons=true&locale=en&layout=compact" alt="geller99" /></p>
+
+
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MajorGrey.MajorGrey) [![Repos Badge](https://badges.pufler.dev/repos/MajorGrey)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/MajorGrey)](https://badges.pufler.dev)
+ 
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
