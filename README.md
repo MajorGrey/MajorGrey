@@ -29,7 +29,7 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=majorgrey&theme=radical&no-frame=true&title=Commit,Stars,Followers,Repositories)
+![Trophies](https://github-profile-trophy.vercel.app/?username=majorgrey&theme=radical&no-frame=true&title=Commit,Stars,Followers,Repositories,PullRequest)
 
 ---
 
