@@ -48,7 +48,7 @@
 Here are a few cool things I’ve built:
 
 
-- 🛒 [**AQskill**](https://github.com/majorgrey/greyxchange) – An online platform helping users **learn in-demand skills**.
+- 🛒 [**AQskill**](https://play.google.com/store/apps/details?id=com.aqskill.learn) – An online platform helping users **learn in-demand skills**.
 - 📚 [**Crush It**](https://play.google.com/store/apps/details?id=com.aqskill.crushIt) – A smart study app to help students **ace JAMB, WAEC, and NECO** with confidence.
 - 🎨 [**JamLink**](#) – A vibrant digital marketplace where **creatives can showcase, sell, and grow** their talents.
 - 💼 [**Jobbkonnect Global**](https://jobbkonnectglobal.com/) – A modern job app built to help people **connect with opportunities globally**, faster and smarter.
